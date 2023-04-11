@@ -1,0 +1,2 @@
+timestamp,event_name,email,location,ip,outcome,reason,application,device_info
+Sat Apr 08 12:12:51 UTC 2023,Login,kyrxanthos@gmail.com,"London, ENG, United Kingdom",137.220.79.132,SUCCESS,,Fitbit Accounts,"os_name: Mac OS,os_version: 10.15.7,browser_name: Safari,browser_version: 16.1,device_name: Mac OS"
